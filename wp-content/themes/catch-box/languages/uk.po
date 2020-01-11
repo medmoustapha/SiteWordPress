@@ -1,0 +1,1489 @@
+# Copyright (C) 2012 the Catch Themes Team
+# This file is distributed under the  GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: Catch Box\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2019-08-26 20:24-0700\n"
+"PO-Revision-Date: 2019-08-26 20:24-0700\n"
+"Last-Translator: Alexandr Baryshnyev <abb@eksi.net>\n"
+"Language-Team: Eksi.Net <info@eksi.net>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:14
+msgid "Error 404 - Page Not Found."
+msgstr "Помилка 404 - Сторінку не знайдено."
+
+#: ../404.php:18
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr "Здається, ми не можемо знайти те, що ви шукаєте."
+
+#: ../404.php:19
+msgid "This might be because:"
+msgstr "Це можливо тому, що:"
+
+#: ../404.php:20
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Ви набрали веб-адресу неправильно, або сторінка, яку ви шукаєте, можливо, "
+"була переміщєна, змінена або видалена."
+
+#: ../404.php:21
+msgid "Please try the following options instead:"
+msgstr "Будь ласка, спробуйте наступні налаштування замість старих:"
+
+#: ../404.php:22
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser or Use the search box below."
+msgstr ""
+"Перевірте, чи правильно ви ввели URL-адресу, а потім натисніть кнопку "
+"оновлення в браузері або скористайтеся формою пошуку, яка розміщена нижче."
+
+#: ../archive.php:46 ../author.php:69 ../category.php:45 ../index.php:32
+#: ../search.php:39 ../tag.php:45
+msgid "Nothing Found"
+msgstr "Нічого не знайдено"
+
+#: ../archive.php:50 ../author.php:73 ../category.php:49 ../index.php:36
+#: ../tag.php:49
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+"Вибачте, але зазначений архів не знайдено. Можливо, пошук допоможе вам "
+"знайти відповідну публікацію."
+
+#: ../author.php:25
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архіви авторів : %s"
+
+#: ../author.php:44 ../content-single.php:76
+#, php-format
+msgid "About %s"
+msgstr "Про %s"
+
+#: ../category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архіви категорії: %s"
+
+#: ../comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Ця публікація захищена паролем. Введіть пароль для перегляду коментарів."
+
+#: ../comments.php:36
+#, fuzzy, php-format
+#| msgid "One thought on &ldquo;%2$s&rdquo;"
+#| msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "%1$s коментар до сторінки &Prime;%2$s&Prime;"
+
+#: ../comments.php:56 ../comments.php:76
+msgid "Comment navigation"
+msgstr "Пересування по коментарях"
+
+#: ../comments.php:57 ../comments.php:77
+msgid "&larr; Older Comments"
+msgstr "&larr; Попередні коментарі"
+
+#: ../comments.php:58 ../comments.php:78
+msgid "Newer Comments &rarr;"
+msgstr "Наступні коментарі &rarr;"
+
+#: ../comments.php:88
+msgid "Comments are closed."
+msgstr "Коментування заборонено."
+
+#: ../content-aside.php:15 ../content-featured.php:14 ../content-gallery.php:15
+#: ../content-gallery.php:46 ../content-image.php:14 ../content-link.php:15
+#: ../content-quote.php:13 ../content-status.php:14 ../content.php:14
+#: ../content.php:17 ../content.php:45
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постійне посилання на %s"
+
+#: ../content-aside.php:16
+msgid "Aside"
+msgstr "Крім"
+
+#: ../content-aside.php:20 ../content-image.php:18 ../content-link.php:20
+#: ../content-quote.php:22 ../content-status.php:19
+msgid "Reply"
+msgstr "Відповідь"
+
+#: ../content-aside.php:20 ../content-image.php:18 ../content-link.php:20
+#: ../content-quote.php:22 ../content-status.php:19
+msgctxt "comments number"
+msgid "1"
+msgstr "1"
+
+#: ../content-aside.php:20 ../content-image.php:18 ../content-link.php:20
+#: ../content-quote.php:22 ../content-status.php:19
+msgctxt "comments number"
+msgid "%"
+msgstr "%"
+
+#: ../content-aside.php:34 ../content.php:56 ../functions.php:362
+#, php-format
+msgid "Continue reading %s"
+msgstr "Продовжити читання %s"
+
+#: ../content-aside.php:41 ../content-featured.php:23 ../content-gallery.php:53
+#: ../content-image.php:26 ../content-link.php:33 ../content-page.php:19
+#: ../content-quote.php:35 ../content-single.php:31 ../content-status.php:34
+#: ../content.php:63 ../image.php:87
+msgid "Pages:"
+msgstr "Сторінки:"
+
+#: ../content-aside.php:54 ../content-gallery.php:91 ../content-image.php:67
+#: ../content-link.php:46 ../content-quote.php:73 ../content-status.php:47
+#: ../content.php:103
+msgid "Leave a reply"
+msgstr "Залишити відповідь"
+
+#: ../content-aside.php:54 ../content-gallery.php:91 ../content-image.php:67
+#: ../content-link.php:46 ../content-quote.php:73 ../content-status.php:47
+#: ../content.php:103
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> відповідь"
+
+#: ../content-aside.php:54 ../content-gallery.php:91 ../content-image.php:67
+#: ../content-link.php:46 ../content-quote.php:73 ../content-status.php:47
+#: ../content.php:103
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> відповідей"
+
+#: ../content-aside.php:56 ../content-featured.php:50 ../content-gallery.php:94
+#: ../content-image.php:71 ../content-link.php:48 ../content-page.php:27
+#: ../content-quote.php:76 ../content-single.php:64 ../content-status.php:49
+#: ../content.php:106 ../functions.php:532 ../functions.php:560 ../image.php:97
+msgid "Edit"
+msgstr "Редагувати"
+
+#: ../content-featured.php:34 ../content-featured.php:43
+#: ../content-gallery.php:66 ../content-gallery.php:76 ../content-image.php:50
+#: ../content-image.php:59 ../content-quote.php:48 ../content-quote.php:58
+#: ../content-single.php:42 ../content-single.php:45 ../content.php:77
+#: ../content.php:87
+msgid ", "
+msgstr ", "
+
+#: ../content-featured.php:36
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Опубліковано у розділах: %1$s та помічено мітками: %2$s. <a href=\"%3$s\" "
+"title=\"Постійне посилання на %4$s\" rel=\"bookmark\">Постійне посилання для "
+"закладок</a>."
+
+#: ../content-featured.php:38
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Опубліковано у розділах: %1$s. <a href=\"%3$s\" title=\"Постійне посилання "
+"на %4$s\" rel=\"bookmark\">Постійне посилання для закладок</a>."
+
+#: ../content-gallery.php:16
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../content-gallery.php:30 ../content-image.php:24 ../content-link.php:31
+#: ../content-quote.php:33 ../content-status.php:32
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продовжити читання <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-gallery.php:45
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Цей альбом містить у собі <a %1$s>%2$s зображення</a>."
+msgstr[1] "Цей альбом містить у собі <a %1$s>%2$s зображення</a>."
+msgstr[2] "Цей альбом містить у собі <a %1$s>%2$s зображень</a>."
+
+#: ../content-gallery.php:70 ../content-image.php:54 ../content-quote.php:52
+#: ../content.php:81
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Опубліковано у розділах:</span> %2$s"
+
+#: ../content-gallery.php:82 ../content-image.php:62 ../content-quote.php:64
+#: ../content.php:93
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Помічено мітками:</span> %2$s"
+
+#: ../content-image.php:15
+msgid "Image"
+msgstr "Зображення"
+
+#: ../content-image.php:37
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by "
+"</span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" "
+"title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> "
+"автор </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s"
+"\" title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: ../content-image.php:42 ../functions.php:598
+#, php-format
+msgid "View all posts by %s"
+msgstr "Переглянути всі публікації автора %s"
+
+#: ../content-link.php:16
+msgid "Link"
+msgstr "Посилання"
+
+#: ../content-quote.php:14
+msgid "Quote"
+msgstr "Цитата"
+
+#: ../content-single.php:21 ../content.php:26
+msgid "No Comments &darr;"
+msgstr "Немає коментарів &darr;"
+
+#: ../content-single.php:21 ../content.php:26
+msgid "1 Comment &darr;"
+msgstr "1 коментар &darr;"
+
+#: ../content-single.php:21 ../content.php:26
+msgid "% Comments &darr;"
+msgstr "% коментарів &darr;"
+
+#: ../content-single.php:47
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Опубліковано у розділах: %1$s та помічено мітками: %2$s автором <a href="
+"\"%6$s\">%5$s</a>. <a href=\"%3$s\" title=\"Постійне посилання на %4$s\" rel="
+"\"bookmark\">Постійне посилання для закладок</a>."
+
+#: ../content-single.php:49
+#, php-format
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Опубліковано у розділах: %1$s автором <a href=\"%6$s\">%5$s</a>. <a href="
+"\"%3$s\" title=\"Постійне посилання на %4$s\" rel=\"bookmark\"> Постійне "
+"посилання для закладок</a>."
+
+#: ../content-single.php:51
+#, php-format
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Опубліковано автором <a href=\"%6$s\">%5$s</a>. <a href=\"%3$s\" title="
+"\"Постійне посилання на %4$s\" rel=\"bookmark\">Постійне посилання для "
+"закладок</a>."
+
+#: ../content-single.php:80
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+"Переглянути всі публікації автора %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../content-status.php:15
+msgid "Status"
+msgstr "Статус"
+
+#: ../content.php:15
+msgid "Featured"
+msgstr "з розбудованими можливостями"
+
+#: ../functions.php:142 ../inc/catchbox-menus.php:102
+msgid "Primary Menu"
+msgstr "Головне меню"
+
+#: ../functions.php:143 ../inc/catchbox-menus.php:126
+msgid "Secondary Menu"
+msgstr "Додаткове меню"
+
+#: ../functions.php:144 ../inc/catchbox-menus.php:172
+msgid "Footer Menu"
+msgstr "Нижнє меню"
+
+#: ../functions.php:209
+msgid "Small"
+msgstr ""
+
+#: ../functions.php:210
+msgid "S"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Normal"
+msgstr ""
+
+#: ../functions.php:216
+msgid "M"
+msgstr ""
+
+#: ../functions.php:221
+msgid "Large"
+msgstr ""
+
+#: ../functions.php:222
+msgid "L"
+msgstr ""
+
+#: ../functions.php:227
+msgid "Huge"
+msgstr ""
+
+#: ../functions.php:228
+msgid "XL"
+msgstr ""
+
+#: ../functions.php:417 ../functions.php:446
+msgid "Post navigation"
+msgstr "Пересування по публікаціях"
+
+#: ../functions.php:425 ../functions.php:454 ../page-blog.php:52
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Попередні публікації"
+
+#: ../functions.php:426 ../functions.php:455 ../page-blog.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Наступні публікації <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../functions.php:532
+msgid "Pingback:"
+msgstr "Сповіщення (pingback):"
+
+#: ../functions.php:549
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s %2$s <span class=\"says\">написав:</span>"
+
+#: ../functions.php:555
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s о %2$s"
+
+#: ../functions.php:564
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш коментар очікує на підтвердження модератором."
+
+#: ../functions.php:573
+msgid "Reply <span>&darr;</span>"
+msgstr "Відповідь <span>&darr;</span>"
+
+#: ../functions.php:592
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date updated\" datetime=\"%3$s\" pubdate>"
+"%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep\">Опубліковано </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date updated\" datetime=\"%3$s\" pubdate>"
+"%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> автором </"
+"span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title="
+"\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+#: ../functions.php:665
+msgid "ID"
+msgstr "Ідентифікатор"
+
+#: ../functions.php:800
+msgid "Name"
+msgstr "Ім'я"
+
+#: ../functions.php:802 ../functions.php:952
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: ../functions.php:858
+msgid "Footer Social Links Menu"
+msgstr "Посилання на соціальні мережі в нижньому колонтитулі"
+
+#: ../functions.php:862
+msgid "Facebook"
+msgstr "Фейсбук"
+
+#: ../functions.php:867
+msgid "Twitter"
+msgstr "Твіттер"
+
+#: ../functions.php:872
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: ../functions.php:877
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: ../functions.php:882
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../functions.php:887
+msgid "YouTube"
+msgstr "YouTube"
+
+#: ../functions.php:892
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: ../functions.php:897
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: ../functions.php:902
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: ../functions.php:907
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../functions.php:912
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../functions.php:917
+msgid "MySpace"
+msgstr "MySpace"
+
+#: ../functions.php:922
+msgid "AIM"
+msgstr "AIM"
+
+#: ../functions.php:927
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../functions.php:932
+msgid "Slideshare"
+msgstr "Slideshare"
+
+#: ../functions.php:937
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../functions.php:942
+msgid "Skype"
+msgstr "Skype"
+
+#: ../functions.php:947
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: ../functions.php:957
+msgid "Xing"
+msgstr "Xing"
+
+#: ../functions.php:962
+msgid "Meetup"
+msgstr "Meetup"
+
+#: ../functions.php:968
+msgid "Goodreads"
+msgstr ""
+
+#: ../functions.php:974
+msgid "Github"
+msgstr ""
+
+#: ../functions.php:980
+msgid "VK"
+msgstr ""
+
+#: ../functions.php:985
+msgid "Spotify"
+msgstr ""
+
+#: ../image.php:15
+msgid "Image navigation"
+msgstr "Пересування по зображеннях"
+
+#: ../image.php:16
+msgid "&larr; Previous"
+msgstr "&larr; Попереднє"
+
+#: ../image.php:17
+msgid "Next &rarr;"
+msgstr "Наступне &rarr;"
+
+#: ../image.php:27
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Опубліковано </span> <span "
+"class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></"
+"span> у <a href=\"%3$s\" title=\"Посилання на зображення повного розміру\">"
+"%4$s &times; %5$s</a> в <a href=\"%6$s\" title=\"Повернутися до %7$s\" rel="
+"\"gallery\">%8$s</a>"
+
+#: ../inc/catchbox-menus.php:104
+msgid "Primary menu"
+msgstr "Головне меню"
+
+#: ../inc/catchbox-menus.php:173
+msgid "Footer menu"
+msgstr "Нижнє меню"
+
+#: ../inc/custom-header.php:31
+msgid "Garden"
+msgstr "сад"
+
+#: ../inc/custom-header.php:37
+msgid "Flower"
+msgstr "квітка"
+
+#: ../inc/custom-header.php:43
+msgid "Mountain"
+msgstr "гора"
+
+#: ../inc/customizer/customizer-custom-controls.php:18
+msgid "Theme Instructions"
+msgstr "Інструкція з користування темою (англ.)"
+
+#: ../inc/customizer/customizer-custom-controls.php:22
+msgid "Support"
+msgstr "Підтримка теми (англ.)"
+
+#: ../inc/customizer/customizer-custom-controls.php:26
+msgid "Changelog"
+msgstr "Список змін"
+
+#: ../inc/customizer/customizer-custom-controls.php:30
+msgid "Donate Now"
+msgstr "Пожертвувати"
+
+#: ../inc/customizer/customizer-custom-controls.php:34
+msgid "Review"
+msgstr "Огляд"
+
+#: ../inc/default-options.php:29
+msgid "Light"
+msgstr "Світлий"
+
+#: ../inc/default-options.php:34
+msgid "Dark"
+msgstr "Темний"
+
+#: ../inc/default-options.php:39
+msgid "Blue"
+msgstr "Блакитний"
+
+#: ../inc/default-options.php:44
+msgid "Green"
+msgstr "Зелений"
+
+#: ../inc/default-options.php:49
+msgid "Red"
+msgstr "Червоний"
+
+#: ../inc/default-options.php:54
+msgid "Brown"
+msgstr "Коричневий"
+
+#: ../inc/default-options.php:59
+msgid "Orange"
+msgstr "Помаранчевий"
+
+#: ../inc/default-options.php:183
+msgid "Y"
+msgstr "Y"
+
+#: ../inc/default-options.php:204
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../inc/default-options.php:214
+msgid "Theme: Catch Box by "
+msgstr "Тема Catch Box від&nbsp;&nbsp;"
+
+#: ../inc/default-options.php:225
+msgid "Catch Themes"
+msgstr "&nbsp;&nbsp;Catch Themes"
+
+#: ../inc/default-options.php:236 ../inc/default-options.php:239
+msgid "Copyright"
+msgstr "Авторські права"
+
+#: ../inc/default-options.php:236 ../inc/default-options.php:239
+#, fuzzy
+#| msgid "All Rights Reserved"
+msgid "All Rights Reserved."
+msgstr "Усі права застережено"
+
+#: ../inc/widgets.php:23
+msgid "Main Sidebar"
+msgstr "Головна бокова панель"
+
+#: ../inc/widgets.php:32
+msgid "Footer Area One"
+msgstr "Перша нижня зона"
+
+#: ../inc/widgets.php:34 ../inc/widgets.php:44 ../inc/widgets.php:54
+msgid "An optional widget area for your site footer"
+msgstr "Додаткова нижня зона для віджетів"
+
+#: ../inc/widgets.php:42
+msgid "Footer Area Two"
+msgstr "Друга нижня зона"
+
+#: ../inc/widgets.php:52
+msgid "Footer Area Three"
+msgstr "Третя нижня зона"
+
+#: ../inc/widgets.php:86
+msgid "CT: Adspace Widget"
+msgstr "Оголошення"
+
+#: ../inc/widgets.php:87
+msgid "Use this widget to add any type of Ad as a widget. "
+msgstr ""
+"Використовуйте цей віджет, щоб додати будь-який тип оголошень в якості "
+"віджету."
+
+#: ../inc/widgets.php:105
+msgid "Title (optional):"
+msgstr "Назва (за бажанням):"
+
+#: ../inc/widgets.php:110
+msgid "Ad Code:"
+msgstr "Рекламні коди:"
+
+#: ../inc/widgets.php:116
+msgid "Image Url:"
+msgstr "URL-адреса зображення:"
+
+#: ../inc/widgets.php:120
+msgid "Link URL:"
+msgstr "URL-адреса посилання:"
+
+#: ../inc/widgets.php:124
+msgid "Alt text:"
+msgstr "Текст підказки:"
+
+#: ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результати пошуку для: %s"
+
+#: ../search.php:43
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Вибачте, нічого не знайдено такого, що б відповідало вашому запиту. Будь "
+"ласка, спробуйте використати інші ключові слова."
+
+#: ../searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Пошук"
+
+#: ../sidebar.php:24 ../sidebar.php:29
+msgid "Primary Sidebar Widget Area"
+msgstr "Головна бокова панель віджетів"
+
+#: ../sidebar.php:31
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two column site "
+"layout option."
+msgstr ""
+"Це головна бокова панель віджетів, якщо ви використовуєте макет сторінки з 2 "
+"стовпцями"
+
+#: ../sidebar.php:32
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your <a href=\"%s\">Widgets Panel</a> "
+"which will replace default widgets."
+msgstr ""
+"За замовчуванням додаються віджети Пошуку  та Архіви. Ви можете додати свій "
+"віджет відвідавши <a href=\"%s\">Widgets Panel</a>, який замінить віджети за "
+"замовчуванням"
+
+#: ../sidebar.php:38
+msgid "Archives"
+msgstr "Архіви"
+
+#: ../single.php:26
+#, fuzzy
+#| msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgid "Next <span class=\"nav-icon\">&rarr;</span>"
+msgstr "Наступна публікація <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../single.php:27
+msgid "Next post:"
+msgstr ""
+
+#: ../single.php:29
+#, fuzzy
+#| msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgid "<span class=\"nav-icon\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Попередня публікація"
+
+#: ../single.php:30
+msgid "Previous post:"
+msgstr ""
+
+#: ../tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архіви за ключовими словами: %s"
+
+#~ msgid "Catch Box Options"
+#~ msgstr "Налаштування Catch Box"
+
+#~ msgid "Default Layout Set in <a href=\"%s\">Theme Settings</a>"
+#~ msgstr ""
+#~ "Макет за замовчуваням оберіть в <a href=\"%s\">Налаштуваннях Теми</a>"
+
+#~ msgid "Right sidebar"
+#~ msgstr "Права бокова панель"
+
+#~ msgid "Left sidebar"
+#~ msgstr "Ліва бокова панель"
+
+#~ msgid "No Sidebar, One Column"
+#~ msgstr "Без бокових панелей, лише головна колонка"
+
+#~ msgid "Sidebar Layout Options"
+#~ msgstr "Налаштування бокової панелі"
+
+#~ msgid "Content on left"
+#~ msgstr "Вміст ліворуч"
+
+#~ msgid "Content on right"
+#~ msgstr "Вміст праворуч"
+
+#~ msgid "One-column, no sidebar"
+#~ msgstr "Тільки головна колонка, без бокових панелей"
+
+#~ msgid "Show excerpt"
+#~ msgstr ""
+#~ "Показувати витяг (початок тексту до посилання \"Продовжити читання ...\")"
+
+#~ msgid "Show full content"
+#~ msgstr "Показати повний вміст"
+
+#~ msgctxt "label"
+#~ msgid "Search for:"
+#~ msgstr "Шукати:"
+
+#~ msgid "Theme Options"
+#~ msgstr "Налаштування теми"
+
+#~ msgid "Basic theme Options"
+#~ msgstr "Базові налаштування теми"
+
+#~ msgid "Favicon"
+#~ msgstr "Іконка сайту"
+
+#~ msgid "Webclip Icon Options"
+#~ msgstr "Іконка веб-додатку"
+
+#~ msgid ""
+#~ "Web Clip Icon for Apple devices. Recommended Size - Width 144px and "
+#~ "Height 144px height, which will support High Resolution Devices like iPad "
+#~ "Retina"
+#~ msgstr ""
+#~ "Іконка веб-додатку для меню Iphone. Рекомендований розмір - Ширина 144px "
+#~ "і Висота 144px, яка буде підтримуватись екранами з високою роздільною "
+#~ "здатністю таких пристроїв, як IPad Retina"
+
+#~ msgid "Default Layout"
+#~ msgstr "Макет за замовчуванням"
+
+#~ msgid "Content Layout"
+#~ msgstr "Макет вмісту"
+
+#~ msgid "Excerpt Length in Words"
+#~ msgstr "Кількість слів у витягу перед посиланням \"Продовжити читання ...\""
+
+#~ msgid "Feed Redirect URL"
+#~ msgstr "Потік перенаправленнь (Feed Redirect) URL-адреси"
+
+#~ msgid "Search Text Settings"
+#~ msgstr "Налаштування пошуку тексту"
+
+#~ msgid "Custom CSS Styles"
+#~ msgstr "Додаткові стилі CSS теми"
+
+#~ msgid "Scroll Up Options"
+#~ msgstr "Налаштування кнопки \"Вверх\""
+
+#~ msgid "Featured Slider"
+#~ msgstr "Налаштування слайдера"
+
+#~ msgid "Slider Options"
+#~ msgstr "Параметри слайд-шоу"
+
+#~ msgid "Slider Effect Options"
+#~ msgstr "Налаштування слайд-ефектів"
+
+#~ msgid "Colors"
+#~ msgstr "Кольори"
+
+#~ msgid "Basic Colors"
+#~ msgstr "Базові кольори"
+
+#~ msgid "Custom Color Options"
+#~ msgstr "Налаштування користувацького кольору"
+
+#~ msgid "Social Links"
+#~ msgstr "Посилання на соціальні мережі"
+
+#~ msgid "Add your social links here"
+#~ msgstr "Додайте ваші посилання на соціальні мережі тут"
+
+#~ msgid "Predefined Social Icons"
+#~ msgstr "Попередньо визначені іконки соціальних мереж"
+
+#~ msgid "Webmaster Tools"
+#~ msgstr "Інструменти вебмайстра"
+
+#~ msgid ""
+#~ "Webmaster Tools falls under Plugins Territory according to Theme Review "
+#~ "Guidelines in WordPress.org. This feature will be depreciated in future "
+#~ "versions from Catch Box free version. If you want this feature, then you "
+#~ "can add <a href=\"%s\">Catch Web Tools</a>  plugin."
+#~ msgstr ""
+#~ "Webmaster Tools підпадає під Plugins Territory відповідно до посібника з "
+#~ "розгляду в WordPress.org.Ця функція буде амортизуватися в майбутніх "
+#~ "версіях Catch Box free version. Якщо ви хочете цю функцію, то ви можете "
+#~ "додати <a href=\"%s\">Catch Web Tools</a>  плагін."
+
+#~ msgid "Color Scheme"
+#~ msgstr "Колірна схема"
+
+#~ msgid "Link Color"
+#~ msgstr "Колір посилань"
+
+#~ msgid "Feed Redirect url"
+#~ msgstr "Посилання перенаправлення"
+
+#~ msgid "Check to move above the Header/Logo Image"
+#~ msgstr "Активуйте, якщо хочете перемістити Заголовок/Логотип вище"
+
+#~ msgid "Default Display Text in Search"
+#~ msgstr "Текст за замовчуванням у формі пошуку"
+
+#~ msgid "Check to Disable"
+#~ msgstr "Активуйте для заборони"
+
+#~ msgid "Check to disable scroll up"
+#~ msgstr "Активуйте для вимкнення кнопки \"Вверх\""
+
+#~ msgid "Check to Exclude Slider posts from Homepage posts"
+#~ msgstr ""
+#~ "Активуйте для видалення слайд-публікації з числа публікацій на домашній "
+#~ "сторінці сайту"
+
+#~ msgid "Number of Slides"
+#~ msgstr "Кількість слайдів"
+
+#~ msgid ""
+#~ "Customizer page needs to be refreshed after saving if number of slides is "
+#~ "changed"
+#~ msgstr ""
+#~ "Якщо Ви змінювали кількість слайдів, то оновіть сторінку після збереження"
+
+#~ msgid "Transition Effect"
+#~ msgstr "Ефект переходу"
+
+#~ msgid "fade"
+#~ msgstr "зникнення"
+
+#~ msgid "wipe"
+#~ msgstr "витирання"
+
+#~ msgid "scrollUp"
+#~ msgstr "прокрутка догори"
+
+#~ msgid "scrollDown"
+#~ msgstr "прокрутка вниз"
+
+#~ msgid "scrollLeft"
+#~ msgstr "прокрутка ліворуч"
+
+#~ msgid "scrollRight"
+#~ msgstr "прокрутка праворуч"
+
+#~ msgid "blindX"
+#~ msgstr "прив&prime;язка X"
+
+#~ msgid "blindY"
+#~ msgstr "прив&prime;язка Y"
+
+#~ msgid "blindZ"
+#~ msgstr "прив&prime;язка Z"
+
+#~ msgid "cover"
+#~ msgstr "приховувати"
+
+#~ msgid "shuffle"
+#~ msgstr "перетасування"
+
+#~ msgid "Transition Delay (in seconds)"
+#~ msgstr "Затримка переходу"
+
+#~ msgid "Transition Length"
+#~ msgstr "Тривалість переходу"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "deviantART"
+#~ msgstr "deviantART"
+
+#~ msgid "Aim"
+#~ msgstr "Aim"
+
+#~ msgid "Code to display on Header"
+#~ msgstr "Коди, які будуть показані у заголовку"
+
+#~ msgid ""
+#~ "Here you can put scripts from Google, Facebook etc. which will load on "
+#~ "Header"
+#~ msgstr ""
+#~ "Тут ви можете помістити скрипти з Google, Facebook і т.д., які будуть "
+#~ "завантажуватися в заголовку"
+
+#~ msgid "Code to display on Footer"
+#~ msgstr "Коди, які будуть показані у футері (внизу сайту)"
+
+#~ msgid ""
+#~ "Here you can put scripts from Google, Facebook etc. which will load on "
+#~ "Footer"
+#~ msgstr ""
+#~ "Тут ви можете помістити скрипти з Google, Facebook і т.д., які будуть "
+#~ "завантажуватися в футері (внизу сайту)"
+
+#~ msgid "Fav Icon"
+#~ msgstr "Іконка сайту"
+
+#~ msgid "Web Clip Icon"
+#~ msgstr "Іконка веб-додатку"
+
+#~ msgid "Header Image Location"
+#~ msgstr "Розташування зображення в Заголовку"
+
+#~ msgid "Above Header Content"
+#~ msgstr "Вміст вище заголовку"
+
+#~ msgid "Between Site Title-Logo"
+#~ msgstr "Логотип між назвою сайту"
+
+#~ msgid "Below Header Content"
+#~ msgstr "Вміст нижче заголовку"
+
+#~ msgid "#%s Featured Post ID"
+#~ msgstr "#%s Ідентифікатор популярної публікації "
+
+#~ msgid ""
+#~ "Caution: Reset all settings to default. Refresh the page after save to "
+#~ "view full effects."
+#~ msgstr ""
+#~ "Увага: Скидання всіх налаштувань до стандартних. Оновіть сторінку після "
+#~ "збереження для перегляду повного ефекту."
+
+#~ msgid "Reset all settings"
+#~ msgstr "Скинути всі налаштування"
+
+#~ msgid "Check to reset all settings to default"
+#~ msgstr "Активуйте, щоб скинути всі налаштування за замовчуванням"
+
+#~ msgid "Important Links"
+#~ msgstr "Корисні посилання"
+
+#~ msgid "Favicon URL"
+#~ msgstr "URL-адреса іконки Favicon "
+
+#~ msgid "Web Clip Icon URL"
+#~ msgstr "URL-адреса іконки WebClip"
+
+#~ msgid "Content layout"
+#~ msgstr "Макет змісту"
+
+#~ msgid "Move Site Title and Tagline?"
+#~ msgstr "Перемістити Назву сайту (Title) та Гасло сайту (Tagline)?"
+
+#~ msgid "Scroll Up"
+#~ msgstr "Кнопка Вверх"
+
+#~ msgid "Insert as Favicon"
+#~ msgstr "Вставити як іконку Favicon"
+
+#~ msgid "Add/Change Favicon"
+#~ msgstr "додати/змінити іконку Favicon"
+
+#~ msgid "Insert as Web Clip Icon"
+#~ msgstr "Вставити як іконку WebClip"
+
+#~ msgid "Add/Change Web Clip Icon"
+#~ msgstr "додати /змінити іконку WebClip"
+
+#~ msgid "Words"
+#~ msgstr "слів"
+
+#~ msgid "Check to Enable"
+#~ msgstr "Активуйте для дозволу."
+
+#~ msgid "CSS Tutorial from W3Schools."
+#~ msgstr "CSS підручник від W3Schools."
+
+#~ msgid "http://www.w3schools.com/css/default.asp"
+#~ msgstr "http://htmlbook.ru/css/"
+
+#~ msgid "CSS Tutorial"
+#~ msgstr "Підручник з CSS"
+
+#~ msgid "Click Here to Read"
+#~ msgstr "Натисніть для читання"
+
+#~ msgid "Check to disable"
+#~ msgstr "Активуйте для заборони"
+
+#~ msgid "Theme Options By"
+#~ msgstr "Налаштування теми від"
+
+#~ msgid "https://catchthemes.com/"
+#~ msgstr "https://catchthemes.com/"
+
+#~ msgid "https://catchthemes.com/themes/catch-box-pro/"
+#~ msgstr "https://catchthemes.com/themes/catch-box-pro/"
+
+#~ msgid "Upgrade to Catch Box Pro"
+#~ msgstr "Оновити безкоштовну тему до платної версії Catch Box Pro"
+
+#~ msgid "https://catchthemes.com/donate/"
+#~ msgstr "https://catchthemes.com/donate/"
+
+#~ msgid "Donate"
+#~ msgstr "Пожертвувати (англ.)"
+
+#~ msgid "https://catchthemes.com/support/"
+#~ msgstr "https://catchthemes.com/support/"
+
+#~ msgid "https://catchthemes.com/support-forum/forum/catch-box-public/"
+#~ msgstr "https://catchthemes.com/support-forum/forum/catch-box-public/"
+
+#~ msgid "Support Forum"
+#~ msgstr "Форум підтримки теми (англ.)"
+
+#~ msgid "https://catchthemes.com/theme-instructions/catch-box/"
+#~ msgstr "https://catchthemes.com/theme-instructions/catch-box/"
+
+#~ msgid "https://www.facebook.com/catchthemes/"
+#~ msgstr "https://www.facebook.com/catchthemes/"
+
+#~ msgid "Like Catch Themes on Facebook"
+#~ msgstr "Вподобати Catch Themes у Фейсбуці"
+
+#~ msgid "https://twitter.com/catchthemes/"
+#~ msgstr "https://twitter.com/catchthemes/"
+
+#~ msgid "Follow Catch Themes on Twitter"
+#~ msgstr "Підписатись на Catch Themes у Твіттері"
+
+#~ msgid "http://wordpress.org/support/view/theme-reviews/catch-box/"
+#~ msgstr "http://wordpress.org/support/view/theme-reviews/catch-box/"
+
+#~ msgid "Rate us 5 Star on WordPress"
+#~ msgstr "Будь ласка, оцініть нас п&prime;ятьма зірками на сайті WordPress"
+
+#~ msgid "5 Star Rating"
+#~ msgstr "5-зіркова оцінка"
+
+#~ msgctxt "1: Customizer Link Start, 2: Customizer Link End"
+#~ msgid ""
+#~ "Theme Options Panel will be retired on future versions. Please use %1$s "
+#~ "Customizer %2$s instead."
+#~ msgstr ""
+#~ "Панель налаштувань теми буде відсутня у майбутніх версіях. Будь ласка, "
+#~ "користуйтесь %1$s Налаштовувачем %2$s замість цього"
+
+#~ msgid "Featured Post Slider"
+#~ msgstr "Розширена панель публікацій"
+
+#~ msgid "Header Image:"
+#~ msgstr "Зображення в Заголовку"
+
+#~ msgid "Click here to change Header Image"
+#~ msgstr "Натисніть для зміни Зображення в заголовку"
+
+#~ msgid "Click here to add Header Image"
+#~ msgstr "Натисніть, щоб додати зображення Заголовку"
+
+#~ msgid "Post Slider Tutorial"
+#~ msgstr "Підручник з користування розширеною панеллю публікацій"
+
+#~ msgid ""
+#~ "https://catchthemes.com/blog/videos-blog/video-series-adding-featured-"
+#~ "post-slider/"
+#~ msgstr ""
+#~ "https://catchthemes.com/blog/videos-blog/video-series-adding-featured-"
+#~ "post-slider/"
+
+#~ msgid "Click Here to Read Post Slider Tutorial"
+#~ msgstr ""
+#~ "Натисніть тут для ознайомлення з підручником з користування розширеною "
+#~ "панеллю публікацій"
+
+#~ msgid "Exclude Slider post from Home page posts:"
+#~ msgstr ""
+#~ "Видалити слайд-публікацію з числа публікацій на домашній сторінці сайту: "
+
+#~ msgid "Featured Post ID"
+#~ msgstr "Розширений ідентифікатор публікації"
+
+#~ msgid "Click Here To Edit"
+#~ msgstr "Натисніть тут для редагування"
+
+#~ msgid ""
+#~ "<strong>Note</strong>: Here you add in Post IDs which displays on "
+#~ "Homepage Featured Slider."
+#~ msgstr ""
+#~ "<strong>Зауваження</strong>: Тут ви додаєте в публікацію ідентифікатор, "
+#~ "який буде відібражатися на розширеній панелі домашньої сторінки"
+
+#~ msgid "Save"
+#~ msgstr "Зберегти"
+
+#~ msgid "Transition Effect:"
+#~ msgstr "Ефект переходу:"
+
+#~ msgid "Transition Delay"
+#~ msgstr "Затримка переходу"
+
+#~ msgid "second(s)"
+#~ msgstr "секунд"
+
+#~ msgid "Google +"
+#~ msgstr "Google +"
+
+#~ msgid ""
+#~ "<strong>Note:</strong> Enter the url for correponding social networking "
+#~ "website"
+#~ msgstr ""
+#~ "<strong>Зауваження:</strong> Введіть URL-адресу, яка відповідає вашій "
+#~ "соцільній мережі."
+
+#~ msgid "Header and Footer Code"
+#~ msgstr "Коди для розміщення нагорі у заголовку та знизу у футері"
+
+#~ msgid ""
+#~ "Note: Here you can put scripts from Google, Facebook etc. which will load "
+#~ "on Header"
+#~ msgstr ""
+#~ "Зауваження: Тут ви маєте можливість розмістити сценарії Google, Facebook "
+#~ "та інші. які будуть завантажуватися нагорі у заголовку"
+
+#~ msgid ""
+#~ "Note: Here you can put scripts from Google, Facebook, Add This etc. which "
+#~ "will load on footer"
+#~ msgstr ""
+#~ "Зауваження: Тут ви маєте можливість розмістити сценарії Google, Facebook "
+#~ "та інші. які будуть завантажуватися знизу у футері"
+
+#~ msgid "Secondary menu"
+#~ msgstr "Додаткове меню"
+
+#~ msgid "Menu"
+#~ msgstr "меню"
+
+#~ msgid "Primary Mobile Menu"
+#~ msgstr "Головне мобільне меню"
+
+#~ msgid "Secondary Mobile Menu"
+#~ msgstr "Додаткове мобільне меню"
+
+#~ msgid "Disable Search in Header?"
+#~ msgstr "Заборонити форму пошуку в заголовку?"
+
+#~ msgid "Enable Secondary & Footer Menu in Mobile Devices?"
+#~ msgstr ""
+#~ "Дозволити показувати додаткове та нижнє меню для мобільних пристроїв?"
+
+#~ msgid "Search"
+#~ msgstr "Пошук"
+
+#, fuzzy
+#~ msgid "Catch Box Pro"
+#~ msgstr "Налаштування Catch Box"
+
+#, fuzzy
+#~ msgid "Upgrade Now"
+#~ msgstr "Оновити до Pro"
+
+#, fuzzy
+#~ msgid "Catch Box"
+#~ msgstr "Налаштування Catch Box"
+
+#, fuzzy
+#~ msgid "https://catchthemes.com/themes/catchbox"
+#~ msgstr "https://catchthemes.com/themes/catch-box-pro/"
+
+#, fuzzy
+#~ msgid "https://catchthemes.com"
+#~ msgstr "https://catchthemes.com/"
+
+#~ msgid "Disable Sidebar Template"
+#~ msgstr "Désactiver la barre latérale"
+
+#, fuzzy
+#~ msgid "Full Width Disable Sidebar Template"
+#~ msgstr "Désactiver la barre latérale"
+
+#, fuzzy
+#~ msgctxt "placeholder"
+#~ msgid "Search"
+#~ msgstr "Пошук"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Архіви за день: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Архіви за місяць: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Архіви за рік: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Blog Archives"
+#~ msgstr "Архіви сайту"
+
+#~ msgid "Above Site Title-Logo"
+#~ msgstr "Логотип вище назви сайту"
+
+#~ msgid "Below Site Title-Logo"
+#~ msgstr "Логотип нижче назви сайту"
+
+#~ msgid "Click here to change header image"
+#~ msgstr "Натисніть для зміни зображення в заголовку"
+
+#~ msgid "Skip to primary content"
+#~ msgstr "Перейти до головного змісту"
+
+#~ msgid "Skip to secondary content"
+#~ msgstr "Перейти до додуткового змісту"
+
+#~ msgid "More Theme Options &raquo;"
+#~ msgstr "Додаткові параметри теми &raquo;"
+
+#~ msgid "Page %s"
+#~ msgstr "Сторінка %s"
+
+#~ msgid "Use this widget to add any type of Ad as a widget."
+#~ msgstr "Використовуйте цей віджет для показу будь-якої реклами."
+
+#~ msgid "Catch Box Adspace Widget"
+#~ msgstr "Catch Box рекламний віджет"
+
+#~ msgid "Meta"
+#~ msgstr "Мета"
+
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "1"
+#~ msgstr "1"
+
+#~ msgid "%"
+#~ msgstr "%"
+
+#~ msgid "Powered by %s"
+#~ msgstr "Працює на %s"
+
+#~ msgid "Copyright &copy;"
+#~ msgstr "Всі права застережено &copy;"
+
+#~ msgid ". All Rights Reserved."
+#~ msgstr "."
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://wordpress.org/"
+
+#~ msgid "Powered by WordPress"
+#~ msgstr "Працює на WordPress"
+
+#~ msgid "Theme Catch Box by Catch Themes"
+#~ msgstr "Тема Catch Box від Catch Themes"
+
+#~ msgid "Theme: %s"
+#~ msgstr "Тема:  %s"
+
+#~ msgid "Select a Color"
+#~ msgstr "Виберіть колір"
+
+#~ msgid "Default color: %s"
+#~ msgstr "Колір по замовчуванню: %s"
+
+#~ msgid "http://facebook.com/catchthemes"
+#~ msgstr "http://facebook.com/catchthemes"
+
+#~ msgid "https://twitter.com/catchthemes"
+#~ msgstr "https://twitter.com/catchthemes"
+
+#~ msgid "Settings saved."
+#~ msgstr "Настройки сохранены."
+
+#~ msgid ""
+#~ "Some themes provide customization options that are grouped together on a "
+#~ "Theme Options screen. If you change themes, options may change or "
+#~ "disappear, as they are theme-specific. Your current theme, Catch Box, "
+#~ "provides the following Theme Options:"
+#~ msgstr ""
+#~ "Некоторые темы имеют варианты настроек, которые группируются на экране "
+#~ "настроек темы. Если вы меняете тему, параметры могут измениться или "
+#~ "исчезнуть, потому что они имеют конкретную тему. Ваша текущая тема, Catch "
+#~ "Box предоставляет следующие возможности темы:"
+
+#~ msgid ""
+#~ "<strong>Color Scheme</strong>: You can choose a color palette of \"Light"
+#~ "\" (light background with dark text) or \"Dark\" (dark background with "
+#~ "light text) for your site."
+#~ msgstr ""
+#~ "Вы можете выбрать цветовую палитру \"Light\" (светлый фон с темным "
+#~ "текстом) или \"Dark\" (темный фон со светлым текстом) для вашего сайта."
+
+#~ msgid ""
+#~ "<strong>Link Color</strong>: You can choose the color used for text links "
+#~ "on your site. You can enter the HTML color or hex code, or you can choose "
+#~ "visually by clicking the \"Select a Color\" button to pick from a color "
+#~ "wheel."
+#~ msgstr ""
+#~ "<strong>Цвет ссылок</strong>: Вы можете выбрать цвет, используемый для "
+#~ "ссылок на сайте. Вы можете ввести HTML-цвета или шестнадцатеричный код, "
+#~ "или вы можете выбрать визуально, нажав \"Select a Color\" для выбора в "
+#~ "цветовом кругу."
+
+#~ msgid ""
+#~ "<strong>Default Layout</strong>: You can choose if you want your "
+#~ "site&#8217;s default layout to have a sidebar on the left, the right, or "
+#~ "not at all."
+#~ msgstr ""
+#~ "<strong>Default Layout</strong>: Вы можете выбрать, макет вашего сайта "
+#~ "есть с боковой панелью с левой стороны, с правой стороны, или вообще без "
+#~ "боковых панелей"
+
+#~ msgid ""
+#~ "Remember to click \"Save Changes\" to save any changes you have made to "
+#~ "the theme options."
+#~ msgstr ""
+#~ "Не забудьте нажать \"Save Changes\" , чтобы сохранить изменения, "
+#~ "внесенные в тему."
+
+#~ msgid "For more information:"
+#~ msgstr "Для получения дополнительной информации:"
+
+#~ msgid ""
+#~ "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+#~ "target=\"_blank\">Documentation on Theme Options</a>"
+#~ msgstr ""
+#~ "<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+#~ "target=\"_blank\">Документация по настройке темы (англ.)</a>"
+
+#~ msgid ""
+#~ "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support "
+#~ "Forums</a>"
+#~ msgstr ""
+#~ "<a href=\"http://wordpress.org/support/\" target=\"_blank\">Форум "
+#~ "поддержки</a>"
+
+#~ msgid "Overview"
+#~ msgstr "Обзор"
+
+#~ msgid ""
+#~ "Slider Some themes provide customization options that are grouped "
+#~ "together on a Theme Options screen. If you change themes, options may "
+#~ "change or disappear, as they are theme-specific. Your current theme, "
+#~ "Catch Box, provides the following Theme Options:"
+#~ msgstr ""
+#~ "Слайд-шоу некоторых темы предлагает варианты настроек, которые "
+#~ "группируются на экране настроек темы. Если вы меняете темы, параметры "
+#~ "могут измениться или исчезнуть, потому что они имеют конкретную тему. "
+#~ "Ваша текущая тема, Catch Box предоставляет следующие возможности темы:"
+
+#~ msgid "Webmaster Site Verification IDs"
+#~ msgstr "Webmaster Site Verification IDs"
+
+#~ msgid "Google Site Verification ID"
+#~ msgstr "Verification ID site Google"
+
+#~ msgid "Enter your Google ID number only"
+#~ msgstr "Введите только ваш Google ID "
+
+#~ msgid "Yahoo Site Verification ID"
+#~ msgstr "Site de verification d'ID Yahoo"
+
+#~ msgid "Enter your Yahoo ID number only"
+#~ msgstr "Введите только ваш Yahoo ID "
+
+#~ msgid "Bing Site Verification ID"
+#~ msgstr "Site de Verification d'ID Bing"
+
+#~ msgid "Enter your Bing ID number only"
+#~ msgstr "Введите только ваш Bing ID "
+
+#~ msgid "Webmaster Site Verification Code"
+#~ msgstr "Site de verification de code Webmaster"
+
+#~ msgid "Analytics, site stats Header code"
+#~ msgstr "Аналитика, статистика сайта (загружается в заголовке сайта)"
+
+#~ msgid "Analytics, site stats footer code"
+#~ msgstr "Аналитика, статистика сайта (загружается в подвале сайта)"
+
+#~ msgid "Viemo"
+#~ msgstr "Viemo"

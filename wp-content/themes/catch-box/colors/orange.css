@@ -1,0 +1,102 @@
+/*
+	Green color scheme for Catch Box
+*/
+
+/* =Global
+----------------------------------------------- */
+
+body {
+	background-color: #e04C02;
+}
+#branding ul.menu li,
+#branding #access-secondary ul.menu li {
+    border-left: 1px solid #802602;
+}
+
+#branding #access,
+#colophon #access-footer,
+#branding ul.menu ul a {
+	background: #802602; /* Show a solid color for older browsers */
+	background: -moz-linear-gradient(#d83f03, #802602);
+	background: -o-linear-gradient(#d83f03, #802602);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#d83f03), to(#802602)); /* older webkit syntax */
+	background: -webkit-linear-gradient(#d83f03, #802602);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#d83f03', endColorstr='#802602'); /* for IE */
+}
+#branding ul.menu ul a {
+	color: #fff;
+}
+#branding ul.menu li:hover > a,
+#branding ul.menu a:focus,
+#colophon #access-footer ul.menu a:hover,
+#colophon #access-footer ul.menu a:focus {
+	background: #d83f03; /* Show a solid color for older browsers */
+	background: -moz-linear-gradient(#802602, #d83f03);
+	background: -o-linear-gradient(#802602, #d83f03);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#802602), to(#d83f03)); /* Older webkit syntax */
+	background: -webkit-linear-gradient(#802602, #d83f03);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#802602', endColorstr='#d83f03'); /* for IE */
+	color: #fff;
+}
+.mobile-menu-anchor a.genericon-menu:hover,
+.mobile-menu-anchor a.genericon-menu:focus,
+.dropdown-toggle:hover,
+.dropdown-toggle:focus {
+	background-color: #802602;
+	color: #fff;
+}
+#access-secondary {
+    background-color: #d83f03;
+}
+#branding #access-secondary ul.menu a {
+    color: #fff;
+}
+#colophon #access-footer ul.menu li {
+    border-left: 1px solid #802602;
+}
+#branding #access, #colophon #access-footer {
+	border-bottom: 1px solid #802602;
+	margin-bottom: 0;
+}
+#content #infinite-handle span button,
+.wp-block-button__link {
+	background-color: #d83f03;
+}
+#content #infinite-handle span button:hover,
+#content #infinite-handle span button:focus,
+.wp-block-button__link:hover,
+.wp-block-button__link:focus {
+	background-color: #802602;
+}
+
+/* Mobile Menu */
+.menu-access-wrap {
+    background-color: #d83f03;
+}
+.toggled-on #access,
+.toggled-on #access ul.menu a,
+.toggled-on #access-secondary,
+.toggled-on #access-secondary ul.menu a,
+#colophon .toggled-on #access-footer,
+#colophon .toggled-on #access-footer ul.menu a,
+.dropdown-toggle {
+	background: none;
+	background-color: #d83f03;
+	border: none;
+}
+.toggled-on #access ul.menu li:hover > a,
+.toggled-on #access ul.menu a:focus,
+.toggled-on #access-secondary ul.menu li:hover > a,
+.toggled-on #access-secondary ul.menu a:focus,
+#colophon .toggled-on #access-footer ul.menu li:hover > a,
+#colophon .toggled-on #access-footer ul.menu a:focus,
+.dropdown-toggle:hover,
+.dropdown-toggle:focus {
+	background: none;
+	background-color: #802602;
+}
+.toggled-on #access ul.menu li,
+#branding .toggled-on #access-secondary ul.menu li,
+#colophon .toggled-on #access-footer ul.menu li {
+	border-left: none;
+}

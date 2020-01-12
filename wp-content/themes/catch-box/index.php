@@ -24,7 +24,7 @@ get_header(); ?>
 				<?php endwhile; 
 				?>
 				
-				<?php wp_pagenavi(); ?>
+				<?php /*wp_pagenavi();*/ ?>
 
 				<?php catchbox_content_nav( 'nav-below' ); ?>
 
